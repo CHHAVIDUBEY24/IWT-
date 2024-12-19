@@ -1,5 +1,4 @@
-# IWT-Football, often referred to as soccer in some regions, is the world’s most popular sport, played and celebrated by millions of people across the globe. It is a team sport that involves two teams of eleven players competing to score goals by maneuvering a ball into the opposing team’s net using any part of their body except their hands and arms (goalkeepers being the exception).
-
+# IWT-Football, often referred to as soccer in some regions, is the world’s most popular sport, played and celebrated by millions of people across the globe.
 The game is played on a rectangular field with a goal at each end and is governed by a set of rules known as the Laws of the Game. Football is not just about physical skill but also strategy, teamwork, and passion. It has a rich history, with roots dating back to ancient civilizations, and it has evolved into a unifying force that transcends cultures and borders. Major tournaments like the FIFA World Cup and UEFA Champions League showcase the sport's global appeal and competitive spirit.
 
 This project explores football as a sport, highlighting its rules, history, cultural significance, and the impact it has on players and fans worldwide.
